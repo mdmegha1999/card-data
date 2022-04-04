@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+}
+.header{
+    background-color: rgb(104, 115, 134);
+    border-radius: 15px 15px 15px 15px;
+}
+.user{
+    background-color: rgb(209, 128, 128);
+    margin: 2rem;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 30px;
+    border-radius: 20%;
+     padding: 20px; 
+   
+}
+button{
+    background-color: rgb(185, 18, 18);
+}
